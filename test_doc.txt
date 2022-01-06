@@ -1,0 +1,2 @@
+publish css and js
+php artisan vendor:publish --provider="FactoryCms\FactoryCms\Providers\FactoryCmsProvider" --tag=public

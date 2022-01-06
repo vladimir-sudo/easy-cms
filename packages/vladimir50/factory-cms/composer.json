@@ -1,0 +1,19 @@
+{
+    "name": "vladimir50/factory-cms",
+    "description": "Simple items factory cms",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Malets",
+            "email": "vladimirmalec50@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "FactoryCms\\FactoryCms\\": "src/"
+        }
+    },
+    "require": {}
+}
